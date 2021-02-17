@@ -43,6 +43,7 @@
             <li>Url del dominio</li>
         </ul> 
     </li>
+    <li>Ejecutar php artisan migrate:refresh --seed</li>
     <li>Levantar el ambiente</li>
 
 </ul>
